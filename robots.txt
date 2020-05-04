@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /css/
+Disallow: /icons/
+Disallow: /fonts/
+Disallow: /usr/
+Disallow: /projects/
+Sitemap: http://www.watercressstudios.com/sitemap.xml
