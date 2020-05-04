@@ -14,8 +14,8 @@
 	<div class="socialmedia-navigation">
 		<ul>
 			<li><a href="https://discord.gg/watercress" target="_blank" class="fab fa-discord"></a></li>
-            <li><a href="https://twitter.com/TeamWatercress" target="_blank" class="fab fa-twitter"></a></li>
-            <li><a href="http://twitch.tv/watercressstudios" target="_blank" class="fab fa-twitch"></a></li>
+      <li><a href="https://twitter.com/TeamWatercress" target="_blank" class="fab fa-twitter"></a></li>
+      <li><a href="http://twitch.tv/watercressstudios" target="_blank" class="fab fa-twitch"></a></li>
 		</ul>
 	</div>
 </div>
