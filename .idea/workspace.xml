@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="00d924a9-fbd5-42c7-8855-ad258fa5c0ad" name="Default" comment="Fixed some path variables and edited the text on the website.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/header-2.php" beforeDir="false" afterPath="$PROJECT_DIR$/header-2.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/header.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/home.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>dis</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP">
+    <include_path>
+      <path value="C:/xampp/php" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1Xwl6TTCg21bGcSav8TQFStG236" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="C:/xampp/php/php.exe" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="00d924a9-fbd5-42c7-8855-ad258fa5c0ad" name="Default" comment="" />
+      <created>1564804205760</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1564804205760</updated>
+      <workItem from="1564804207939" duration="6335000" />
+      <workItem from="1566324623268" duration="433000" />
+      <workItem from="1581964876214" duration="747000" />
+      <workItem from="1582008793160" duration="4438000" />
+      <workItem from="1582142284614" duration="1964000" />
+    </task>
+    <task id="LOCAL-00001" summary="updated namespace.&#10;Will move to the Watercress Repo.">
+      <created>1581965586678</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1581965586679</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Fixed some path variables and edited the text on the website.">
+      <created>1582011644117</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1582011644117</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="updated namespace.&#10;Will move to the Watercress Repo." />
+    <MESSAGE value="Fixed some path variables and edited the text on the website." />
+    <option name="LAST_COMMIT_MESSAGE" value="Fixed some path variables and edited the text on the website." />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="380" y="107" key="#CLI_Interpreters" timestamp="1581965394676">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="380" y="107" key="#CLI_Interpreters/0.0.1600.900@0.0.1600.900" timestamp="1581965394676" />
+    <state x="523" y="55" key="#PHP" timestamp="1581965405354">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="523" y="55" key="#PHP/0.0.1600.900@0.0.1600.900" timestamp="1581965405354" />
+    <state x="467" y="48" key="CommitChangelistDialog2" timestamp="1582011642110">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="467" y="48" key="CommitChangelistDialog2/0.0.1600.900@0.0.1600.900" timestamp="1582011642110" />
+    <state x="579" y="207" key="FileChooserDialogImpl" timestamp="1581965385557">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="579" y="207" key="FileChooserDialogImpl/0.0.1600.900@0.0.1600.900" timestamp="1581965385557" />
+    <state x="392" y="186" key="Vcs.Push.Dialog.v2" timestamp="1582011648194">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="392" y="186" key="Vcs.Push.Dialog.v2/0.0.1600.900@0.0.1600.900" timestamp="1582011648194" />
+    <state x="503" y="277" key="com.intellij.ide.util.TipDialog" timestamp="1582142296648">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="503" y="277" key="com.intellij.ide.util.TipDialog/0.0.1600.900@0.0.1600.900" timestamp="1582142296648" />
+  </component>
+</project>
