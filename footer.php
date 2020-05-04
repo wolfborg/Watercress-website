@@ -1,4 +1,3 @@
-
 <div class="footer">
 	<div class="socialmedia-navigation">
 		<ul>
@@ -10,11 +9,10 @@
 		</ul>
 	</div>
     <details>
-        <summary>Watercress LLC 2014-2020<br>
-            Site designed and built by Paperbone and <a href="https://twitter.com/Happinessplus__" class="learn" target="_blank"> Happiness+</a></summary>
+        <summary>
+        	Watercress LLC 2014-2020<br>
+        	Site designed and built by Paperbone and<a href="https://twitter.com/Happinessplus__" class="learn" target="_blank"> Happiness+</a>
+        </summary>
     </details>
 	</div> 
 </div>
-
-</body>
-</html>

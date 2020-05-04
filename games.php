@@ -1,11 +1,13 @@
-
+<!DOCTYPE html>
+<html lang="en">
+<body>
+<?php include 'head.php'; ?>
 <?php include 'header.php'; ?>
-<?php include 'header-2.php'; ?>
 <div class="all-games">
 	<div class="game-wrapper">
 		<a target="_blank" href="https://store.steampowered.com/app/458760/Palinurus/?curator_clanid=6547500">
 			<div class="game-image">
-				<img src="PALINURUS.png" />
+				<img src="img/PALINURUS.png" />
 			</div>
 			<div class="game-title">
 				Palinurus
@@ -17,7 +19,7 @@
 	<div class="game-wrapper">
 		<a target="_blank" href="https://store.steampowered.com/app/674580/Fare_Thee_Well/?curator_clanid=6547500">
 			<div class="game-image">
-				<img src="FTW.png" />
+				<img src="img/FTW.png" />
 			</div>
 			<div class="game-title">
 				Fare Thee Well
@@ -29,7 +31,7 @@
 	<div class="game-wrapper">
 		<a target="_blank" href="https://watercress.itch.io/cautionary-tale">
 			<div class="game-image">
-				<img src="TALE.png" />
+				<img src="img/TALE.png" />
 			</div>
 			<div class="game-title">
 				Cautionary Tale
@@ -42,7 +44,7 @@
 	<div class="game-wrapper">
 		<a target="_blank" href="https://watercress.itch.io/seeds-of-sylvia">
 			<div class="game-image">
-				<img src="SEEDS.png" />
+				<img src="img/SEEDS.png" />
 			</div>
 			<div class="game-title">
 				Seeds of Sylvia
@@ -55,7 +57,7 @@
 	<div class="game-wrapper">
 		<a target="_blank" href="https://watercress.itch.io/our-home">
 			<div class="game-image">
-				<img src="OURHOME.png" />
+				<img src="img/OURHOME.png" />
 			</div>
 			<div class="game-title">
 				Our Home.
@@ -67,7 +69,7 @@
 	<div class="game-wrapper">
 		<a target="_blank" href="http://ludumdare.com/compo/ludum-dare-31/?action=preview&uid=45841">
 			<div class="game-image">
-				<img src="LULL.png" />
+				<img src="img/LULL.png" />
 			</div>
 			<div class="game-title">
 				Lull
@@ -81,7 +83,7 @@
 	<div class="game-wrapper">
 		<a target="_blank" href="https://watercress.itch.io/ah-my-girlfriend-is-a-demon-summoned-from-the-depths-of-hell">
 			<div class="game-image">
-				<img src="AMGIADSFTDOH.png" />
+				<img src="img/AMGIADSFTDOH.png" />
 			</div>
 			<div class="game-title">
 			A!MGIADSFTDOH!
@@ -108,3 +110,5 @@
 	</div>
 </div> -->
 <?php include 'footer.php'; ?>
+</body>
+</html>
