@@ -3,9 +3,10 @@
 		<ul>
 			<li><a href="https://discord.gg/watercress" target="_blank" class="fab fa-discord"></a></li>
 			<li><a href="https://twitter.com/TeamWatercress" target="_blank" class="fab fa-twitter"></a></li>
+			<li><a href="https://reddit.com/r/teamwatercress" target="_blank" class="fab fa-reddit"></a></li>
+			<li><a href="https://www.youtube.com/WatercressStudios" target="_blank" class="fab fa-youtube"></a></li>
 			<li><a href="http://twitch.tv/watercressstudios" target="_blank" class="fab fa-twitch"></a></li>
 			<li><a href="https://soundcloud.com/watercress-studios" target="_blank" class="fab fa-soundcloud"></a></li>
-			<li><a href="https://reddit.com/r/teamwatercress" target="_blank" class="fab fa-reddit"></a></li>
 		</ul>
 	</div>
     <details>

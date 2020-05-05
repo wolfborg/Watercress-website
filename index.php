@@ -46,7 +46,7 @@
 		<a class="next" onclick="plusSlides(1)">&#10095;</a>
 	</div>
 	<br>
-	
+
 	<script>
 	var slideIndex = 1;
 	showSlides(slideIndex);
@@ -108,7 +108,7 @@
 			</div>
 		</div>
 	</div> -->
-
+	
 	<div class="content">
 		<p>Watercress is a team of over forty global developers creating story-driven games. From the beginning,
 		it has been our dream to work on games we love, and to inspire those who play them. Our goal is to create
