@@ -29,9 +29,10 @@
   <!-- Keep an eye out on this line of code, in case scripts act funny. -->
   <meta http-equiv="Content-Security-Policy" content="
 		default-src 'self';
-		script-src 'self' http://* 'unsafe-inline';
+		script-src 'self' http://* 'unsafe-inline' https://www.google-analytics.com/;
 		style-src 'self' 'unsafe-inline' https://fonts.googleapis.com https://use.fontawesome.com;
 		font-src 'self' https://fonts.gstatic.com https://use.fontawesome.com;
+    img-src 'self' https://www.google-analytics.com/;
 	">
 
   <meta name="description" content="We are the largest freeware Visual Novel studio in the US!"/>
