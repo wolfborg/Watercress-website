@@ -445,17 +445,19 @@ a:hover.cta-button {
 	display:none;
 }
 
-.all-games .game-wrapper:hover .game-description {
-	display:block;
-	background-color:rgba(0,35,109,0.9);
-	color:#fff;
-	position:absolute;
-	top:0;
-	height:200px;
-	width:150px;
-	font-size:16px;
-	padding:25px;
-	overflow:hidden;
+@media screen and (min-width:901px) {
+	.all-games .game-wrapper:hover .game-description {
+		display:block;
+		background-color:rgba(0,35,109,0.9);
+		color:#fff;
+		position:absolute;
+		top:0;
+		height:200px;
+		width:150px;
+		font-size:16px;
+		padding:25px;
+		overflow:hidden;
+	}
 }
 
 .project-banner {
