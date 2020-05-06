@@ -3,7 +3,7 @@
 	<a id="companyName" href="index.php"><h1>Watercress</h1></a>
 </div>
 <div class="navigation-box">
-	<a href="javascript:void(0);" class="open-nav"><i class="fas fa-bars"></i> Navigation</a>
+	<a href="javascript:void(0);" class="open-nav"><i class="fas fa-bars"></i> Menu</a>
 	<div class="navigation">
 		<ul>
 			<li><a href="index.php">Home</a></li>
