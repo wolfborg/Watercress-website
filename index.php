@@ -13,6 +13,12 @@
 		</div>
 
 		<div class="mySlides fade">
+			<a href="https://watercress.itch.io/whenthewarwashome" target="_blank">
+				<img src="img/WTWWH_1000x500.png">
+			</a>
+		</div>
+
+		<div class="mySlides fade">
 			<a href="https://store.steampowered.com/app/1067930/this_was_for_you/" target="_blank">
 				<img src="img/TWFY_1000x500.png">
 			</a>
@@ -75,7 +81,7 @@
 	);
 	</script>
 	
-	<div class="content">
+	<div class="content" style="text-align:justify">
 		<p>Watercress is a team of over forty global developers creating story-driven games. From the beginning,
 		it has been our dream to work on games we love, and to inspire those who play them. Our goal is to create
 		rich narrative-driven games, with a focus on community and inclusivity, both inside and outside of our studio.
