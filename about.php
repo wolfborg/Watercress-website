@@ -2,8 +2,8 @@
 <html lang="en">
 <?php include 'head.php'; ?>
 <body>
+<?php include 'header.php'; ?>
 <div class="container">
-	<?php include 'header.php'; ?>
 	<div class="content">
 		<p>Watercress was founded in August of 2014 on the Katawa Shoujo subreddit. Inspired by the emotional narrative of Katawa Shoujo, we immediately set out on our own visual novel, Avitus. Four years and seven releases later, we're still creating VNs that we love, with a heavy focus on impactful narratives. Our games are often in the genres of 'nakige' or 'utsuge', and many of them don't have the happiest of endings. With a team of over fifty hardened and experienced individuals, we're finally setting our sights once again on our end goal: Avitus. We also have a <a target="_blank" href="https://discord.gg/watercress">Discord Server</a>!</p>
 		<p><strong class="contact">Want to contact us?</strong> <a class="contact-address" href="#">contact@watercress.com</a></p>
@@ -133,7 +133,7 @@
 			</div>
 		</div>
 	</div>
-	<?php include 'footer.php'; ?>
 </div>
+<?php include 'footer.php'; ?>
 </body>
 </html>

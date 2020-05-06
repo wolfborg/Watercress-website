@@ -43,7 +43,7 @@ body {
 	font-family:Lato;
 	font-weight:200;
 	font-size:18px;
-	background-color:#0c0c0c;
+	background-color:#353535;
 	color:#c1cbd6;
 }
 
@@ -221,9 +221,16 @@ a {
 }
 
 .mainBranding {
-  background-color:#59C974;
-  display: flex;
-  align-items: center;
+	display: flex;
+	align-items: center;
+	float:left;
+	width:900px;
+	margin:auto;
+}
+
+.topBar {
+	background-color:white;
+	display: flex;
 }
 
 .mainBranding img#logo {
@@ -241,15 +248,8 @@ a {
 
 .navigation-box {
 	height:60px;
-}
-
-a.open-nav {
-	/* font-family: 'Bebas Neue Book'; */
-	font-size: 35px;
-	font-weight: 300;
-	color:#000;
-	line-height:60px;
-	display: none;
+	margin:auto;
+	width: 900px;
 }
 
 .navigation {
@@ -259,7 +259,20 @@ a.open-nav {
     padding-left: 15px;
     height: 60px;
     line-height: 60px;
-    float:left;
+	float:left;
+}
+
+.socialmedia-navigation {
+	float:right;
+}
+
+a.open-nav {
+	/* font-family: 'Bebas Neue Book'; */
+	font-size: 35px;
+	font-weight: 300;
+	color:#c1cbd6;
+	line-height:60px;
+	display: none;
 }
 
 .navigation a {
@@ -280,13 +293,9 @@ a.open-nav {
 	padding-right: 10px;
 }
 
-.socialmedia-navigation {
-	float:right;
-}
-
 .socialmedia-navigation ul li a {
 	color:#c3c2c2;
-	font-size: 20px;
+	font-size: 25px;
 	line-height:65px;
 	width:50px;
 	text-align:center;
@@ -471,12 +480,12 @@ a:hover.cta-button {
 }
 
 .footer {
-  text-align: center;
-  background-color: #59C974;
-  padding: 15px;
-  font-size: 13px;
-  font-weight: bold;
-  color: #001E6D;
+	text-align: center;
+	background-color: white;
+	padding: 15px;
+	font-size: 13px;
+	font-weight: bold;
+	color: #001E6D;
 	margin-top: 30px;
 	flex-grow: 2;
 }
@@ -492,14 +501,14 @@ a:hover.cta-button {
 
 .footer .socialmedia-navigation ul li a {
 	color:inherit;
-	font-size:20px;
+	font-size:25px;
 	width:30px;
 	text-transform: none;
 	font-weight: normal;
 }
 
 .footer .socialmedia-navigation ul li a:hover {
-	color:#fff;
+	color:#c3c2c2;
 }
 
 .mySlides {
@@ -654,9 +663,15 @@ a.active-green {
 		height:auto;
 	}
 
+	.mainBranding {
+		margin: auto;
+	}
+
 	.navigation-box {
 		height:auto;
 		text-align: center;
+		width: 100%;
+		margin-bottom: 20px;
 	}
 
 	a.open-nav {
@@ -721,12 +736,30 @@ a.active-green {
 		margin:auto;
 		height:auto;
 		margin-bottom:20px;
-		width: 85%;
+		width:90%;
 	}
 
 	.all-games .game-wrapper a .game-description {
 		display:block;
 		color: #E3E4E5;
+	}
+
+	.game-image img {
+		width: 60%;
+		margin: auto;
+		padding-right: 20px;
+		float: left;
+	}
+
+	.game-info {
+		width:35%;
+		float:right;
+		margin:auto;
+		height:100%;
+	}
+
+	.game-title {
+		padding-bottom: 10px;
 	}
 
 	.mySlides img {

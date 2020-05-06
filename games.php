@@ -2,16 +2,18 @@
 <html lang="en">
 <?php include 'head.php'; ?>
 <body>
+<?php include 'header.php'; ?>
 <div class="container">
-	<?php include 'header.php'; ?>
 	<div class="all-games">
 		<div class="game-wrapper">
 			<a target="_blank" href="https://store.steampowered.com/app/458760/Palinurus/?curator_clanid=6547500">
 				<div class="game-image"><img src="img/PALINURUS.png" /></div>
-				<div class="game-title">Palinurus</div>
-				<div class="game-description">
-					A drifting traveler boards a one-man space shuttle destined for Alpha Centauri. This shuttle
-					is piloted by Budapest, an artificial intelligence program designed to serve humanity.
+				<div class="game-info">
+					<div class="game-title">Palinurus</div>
+					<div class="game-description">
+						A drifting traveler boards a one-man space shuttle destined for Alpha Centauri. This shuttle
+						is piloted by Budapest, an artificial intelligence program designed to serve humanity.
+					</div>
 				</div>
 			</a>
 		</div>
@@ -80,12 +82,14 @@
 				<div class="game-image"><img src="all-games-thumb-template.png" /></div>
 				<div class="game-title">TITLE</div>
 				<div class="game-description">
-					This is your short game description. Don't paste the whole thing in here! Just pick a few short lines, such as the tagline you would use on itch.io.
+					This is your short game description. Don't paste the whole thing in here!
+					Just pick a few short lines, such as the tagline you would use on itch.io.
 				</div>
 			</a>
 		</div>
 	</div> -->
-	<?php include 'footer.php'; ?>
+	</div>
 </div>
+<?php include 'footer.php'; ?>
 </body>
 </html>

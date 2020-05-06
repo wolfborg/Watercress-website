@@ -2,9 +2,8 @@
 <html lang="en">
 <?php include 'head.php'; ?>
 <body>
+<?php include 'header.php'; ?>
 <div class="container">
-	<?php include 'header.php'; ?>
-
 	<div class="slideshow-container">
 		<div class="mySlides fade">
 			<a href="https://store.steampowered.com/app/674580/Fare_Thee_Well/?curator_clanid=6547500" target="_blank">
@@ -89,7 +88,7 @@
 	</div>
 
 	<noscript>Your browser does not support JavaScript! Why?!</noscript>
-	<?php include 'footer.php'; ?>
 </div>
+<?php include 'footer.php'; ?>
 </body>
 </html>

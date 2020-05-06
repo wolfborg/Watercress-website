@@ -1,6 +1,9 @@
-<div class="mainBranding">
-	<a href="index.php"><img src="img/logo/logo.png" id="logo" alt="Watercress Studios" name="Watercress Studios" /></a>
-	<a id="companyName" href="index.php"><h1>Watercress</h1></a>
+<header>
+<div class="topBar">
+	<div class="mainBranding">
+		<a href="index.php"><img src="img/logo/logo.png" id="logo" alt="Watercress Studios" name="Watercress Studios" /></a>
+		<a id="companyName" href="index.php"><h1>Watercress</h1></a>
+	</div>
 </div>
 <div class="navigation-box">
 	<a href="javascript:void(0);" class="open-nav"><i class="fas fa-bars"></i> Menu</a>
@@ -19,3 +22,4 @@
 		</ul>
 	</div>
 </div>
+</header>
